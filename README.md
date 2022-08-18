@@ -1,6 +1,6 @@
 ##Oiii eu sou o Vinicius Soares,sou Programador Junior na lingua JavaScript.
 - 🔭 Buscando o primeiro emprego em programação
-- 🌱 Estudando Node.js
+- 🌱 Estudando Javascript, Html, Css e Node.js
 - 😄 Pronouns: Ele/Dele
 
 <div align="center">
